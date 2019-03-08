@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552055673 source:d:\sorting\string sort\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
