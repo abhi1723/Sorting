@@ -13,7 +13,7 @@ int main()
     for(int i=0;i<n;i++){
         B[A[i]]++;
     }
-    for(int i=0;i<n;i++){
+    for(int i=0;i<3;i++){
         for(int j=0;j<B[i];j++)
             cout<<i<<endl;
     }
